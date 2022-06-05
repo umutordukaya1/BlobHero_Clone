@@ -1,2 +1,2 @@
-# Blob_Clone
+# BlobHero_Clone
 Game Clone
